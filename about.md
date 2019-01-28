@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Ignas Kaziukėnas and I'm writing this blog to document my journey on [AWS Lambda](https://aws.amazon.com/lambda/ "AWS Lambda start page").  
+Or who knows what else I might be interested in the future.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can either message me on LinkedIn (I tend not to add people that I don't personally know) or you can figure out my email from my name and the domain of this page.
